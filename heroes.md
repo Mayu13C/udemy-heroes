@@ -8,3 +8,4 @@
 * Robin
 * Volcán Negro
 * Iron Man
+* Spider Man
